@@ -6,7 +6,7 @@
 # The DOM EventTarget subclass used by XMLHttpRequest.
 #
 # @see http://xhr.spec.whatwg.org/#interface-xmlhttprequest
-class XMLHttpRequestEventTarget
+class @XMLHttpRequestEventTarget
   # @private
   # This is an abstract class and should not be instantiated directly.
   constructor: ->

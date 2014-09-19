@@ -11,7 +11,7 @@ url = require 'url'
 # The ECMAScript HTTP API.
 #
 # @see http://www.w3.org/TR/XMLHttpRequest/#introduction
-class XMLHttpRequest extends XMLHttpRequestEventTarget
+class @XMLHttpRequest extends XMLHttpRequestEventTarget
   # Creates a new request.
   #
   # @param {Object} options one or more of the options below

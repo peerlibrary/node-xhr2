@@ -1,5 +1,5 @@
 # @see http://xhr.spec.whatwg.org/#interface-xmlhttprequest
-class XMLHttpRequestUpload extends XMLHttpRequestEventTarget
+class @XMLHttpRequestUpload extends XMLHttpRequestEventTarget
   # @private
   # @param {XMLHttpRequest} the XMLHttpRequest that this upload object is
   #   associated with

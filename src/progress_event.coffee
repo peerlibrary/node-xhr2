@@ -1,5 +1,5 @@
 # http://xhr.spec.whatwg.org/#interface-progressevent
-class ProgressEvent
+class @ProgressEvent
   # Creates a new event.
   #
   # @param {String} type the event type, e.g. 'readystatechange'; must be
